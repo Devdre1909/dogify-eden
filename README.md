@@ -17,6 +17,10 @@ Image client side caching was implement with workbox, image lazy loading to was 
 ```
 yarn install
 ```
+Rename `.env.example` to `.env` and update the variables
+```
+VUE_APP_DOG_CEO_BASE_URL=https://dog.ceo/api/
+```
 
 ## Start
 
