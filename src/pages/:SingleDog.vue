@@ -23,7 +23,7 @@
       </div>
       <div class="header__icons">
         <router-link :to="`/${breed}`">More {{ this.breed }} </router-link>
-        <a href="#">GITHUB</a>
+        <a href="https://github.com/Devdre1909/dogify-eden">GITHUB</a>
       </div>
     </div>
     <div class="image__wide">

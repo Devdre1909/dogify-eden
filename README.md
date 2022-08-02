@@ -2,6 +2,11 @@
 
 The application was scaffold with vue-cli and it's a Vue project that include Vue Router, Vuex, SCSS and Axios an major deps.
 
+
+[Github](https://github.com/Devdre1909/dogify-eden)
+[Netlify](https://effortless-malabi-502271.netlify.app/african)
+
+
 ## Decisions
 
 My solution has 3 pages, the index that lists 100 images at random (the given API can only return 50 images max so the request had to be made twice), with a search to filter the image based on breeds. The screen contains a sidebar that lists out all the available breed by the given API and the list is searchable.

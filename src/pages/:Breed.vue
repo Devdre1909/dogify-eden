@@ -24,7 +24,7 @@
           </div>
         </div>
         <div class="header__icons">
-          <a href="#">GITHUB</a>
+          <a href="https://github.com/Devdre1909/dogify-eden">GITHUB</a>
         </div>
       </div>
       <div class="image-grid">
